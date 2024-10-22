@@ -1,0 +1,29 @@
+{
+  "name": "javascript-word-puzzle",
+  "version": "1.0.0",
+  "description": "자바스크립트로 구현하는 단어 퍼즐",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develup-mission/javascript-word-puzzle.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "brgndyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/develup-mission/javascript-word-puzzle/issues"
+  },
+  "homepage": "https://github.com/develup-mission/javascript-word-puzzle#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@woowacourse/mission-utils": "^2.2.0"
+  }
+}
